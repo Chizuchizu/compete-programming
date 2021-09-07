@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_f">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_f"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_f/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_f/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_d">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_d"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_d/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_d/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_e">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_e"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_e/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_e/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_b">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_b"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_b/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_b/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_c">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_c"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_c/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_c/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_d">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_d"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_d/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_d/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_a">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_a"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_a/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_a/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_a">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_a"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_a/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_a/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_e">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_e"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_e/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_e/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_c">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_c"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_c/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_c/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_f">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_f"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="197_f/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/197_f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 197_f/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_b">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_b"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="196_b/fast">
+				<Option output="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/196_b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 196_b/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yuma/CLionProjects/atcoder/abc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/196/a.cpp">
+			<Option target="196_a"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/196/b.cpp">
+			<Option target="196_b"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/196/c.cpp">
+			<Option target="196_c"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/196/d.cpp">
+			<Option target="196_d"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/196/e.cpp">
+			<Option target="196_e"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/196/f.cpp">
+			<Option target="196_f"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/197/a.cpp">
+			<Option target="197_a"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/197/b.cpp">
+			<Option target="197_b"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/197/c.cpp">
+			<Option target="197_c"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/197/d.cpp">
+			<Option target="197_d"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/197/e.cpp">
+			<Option target="197_e"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/197/f.cpp">
+			<Option target="197_f"/>
+		</Unit>
+		<Unit filename="/home/yuma/CLionProjects/atcoder/abc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

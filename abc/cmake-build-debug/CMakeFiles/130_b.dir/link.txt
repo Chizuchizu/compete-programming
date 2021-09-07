@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/130_b.dir/130/b.cpp.o -o 130_b 

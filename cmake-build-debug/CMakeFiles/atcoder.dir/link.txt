@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/atcoder.dir/main.cpp.o CMakeFiles/atcoder.dir/abc197/a.cpp.o -o atcoder 

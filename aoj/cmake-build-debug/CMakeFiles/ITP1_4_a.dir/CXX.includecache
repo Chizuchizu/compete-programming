@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuma/CLionProjects/atcoder/aoj/ITP1/4_a.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+cmath
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ITP1_6_c.dir/ITP1/6_c.cpp.o -o ITP1_6_c 

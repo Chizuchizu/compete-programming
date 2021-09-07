@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/197_d.dir/197/d.cpp.o -o 197_d 

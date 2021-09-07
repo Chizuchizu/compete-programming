@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/216_g.dir/216/g.cpp.o -o 216_g 

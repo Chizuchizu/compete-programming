@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/196_a.dir/196/a.cpp.o -o 196_a 
