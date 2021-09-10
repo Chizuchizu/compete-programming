@@ -49,3 +49,18 @@ add_executable(217_e 217/e.cpp)
 add_executable(217_f 217/f.cpp)
 add_executable(217_g 217/g.cpp)
 add_executable(217_h 217/h.cpp)
+
+# Contest abc 099
+add_executable(099_a 099/a.cpp)
+add_executable(099_b 099/b.cpp)
+add_executable(099_c 099/c.cpp)
+add_executable(099_c-morau 099/c-morau.cpp)
+add_executable(099_c-kubaru 099/c-kubaru.cpp)
+add_executable(099_c-bfs 099/c-bfs.cpp)
+add_executable(099_c-dijkstra 099/c-dijkstra.cpp)
+
+add_executable(099_d 099/d.cpp)
+add_executable(099_e 099/e.cpp)
+add_executable(099_f 099/f.cpp)
+add_executable(099_g 099/g.cpp)
+add_executable(099_h 099/h.cpp)
