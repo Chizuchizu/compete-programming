@@ -6,6 +6,17 @@
 
 using namespace std;
 
+template<class T>
+bool chmin(T &a, T b) {
+    if (a > b) {
+        a = b;
+        return true;
+    }
+    return false;
+}
+
+typedef pair<int, int> P;
+
 const int INF = 110000;
 int dp[INF];
 
@@ -15,15 +26,39 @@ int main() {
     fill(dp, dp + INF, INF);
 
     dp[0] = 0;
-    rep(i, N) {
-        //if (i == 0) continue;
-        for (int pow6 = 1; pow6 + i <= N; pow6 *= 6) {
-            dp[i + pow6] = min(dp[i + pow6], dp[i] + 1);
+
+    priority_queue<P, vector<P>, greater<P>> que;
+    que.push(P(0, 0));
+
+    while (!que.empty()) {
+        P p = que.top();
+        que.pop();
+        int v = p.second;
+        if (dp[v] < p.first) continue;  // 枝刈り?
+
+        for (int pow6 = 1; v + pow6 <= N; pow6 *= 6) {
+            if (chmin(dp[v+pow6], dp[v] + 1)) {
+                que.push(P(dp[v + pow6], v + pow6));
+            }
+
+//            if (dp[v + pow6] > dp[v] + 1) {
+//                dp[v + pow6] = dp[v] + 1;
+//                que.push(P(dp[v + pow6], v + pow6));
+//            }
         }
-        for (int pow9 = 1; pow9 + i <= N; pow9 *= 9) {
-            dp[i + pow9] = min(dp[i + pow9], dp[i] + 1);
+        for (int pow9 = 1; v + pow9 <= N; pow9 *= 9) {
+
+            if (chmin(dp[v+pow9], dp[v] + 1)) {
+                que.push(P(dp[v + pow9], v + pow9));
+            }
+
+//            if (dp[v + pow9] > dp[v] + 1) {
+//                dp[v + pow9] = dp[v] + 1;
+//                que.push(P(dp[v + pow9], v + pow9));
+//            }
         }
     }
+
     cout << dp[N] << endl;
 
     return 0;
