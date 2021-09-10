@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/099_c.dir/099/c.cpp.o -o 099_c 

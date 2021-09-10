@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/099_c-kubaru.dir/099/c-kubaru.cpp.o -o 099_c-kubaru 
